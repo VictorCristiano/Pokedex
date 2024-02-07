@@ -11,6 +11,7 @@ body {
     background: linear-gradient(to bottom, #6ab7f5, #fff);
     text-align: center;
     min-height: 10vh;
+    background-repeat: no-repeat;
 }
   main {
     display: inline-block;
